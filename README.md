@@ -13,15 +13,46 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a How to reach me **trimithak14@gmail.com**>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fid%2Ffree-png-agvff&psig=AOvVaw2jn4qPWoBOhT5RfhE5VEqx&ust=1698836688329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjwt_yRoIIDFQAAAAAdAAAAABAE" alt="Gmail Badge"/>
 <br>
 <!--About Me-->
 ## About me 
 
 - 🏫 I am a 3rd year student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
 - 👩🏻‍💻 **Currently working on** `Data Analyst`
-- 📑 Know About My Experience **
+- 📑 Know About My Experience **https://drive.google.com/file/d/10nPXkVWReO6Rxyt_k_ZdyL6JjXIDRqqC/view?usp=sharing**
 
+## Github Stats
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Trimithakrn&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Trimithakrn&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Trimithakrn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Trimithakrn&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+<br>
 
 ## Author
 [@Triimitharkn](https://www.github.com/Trimithakrn)
