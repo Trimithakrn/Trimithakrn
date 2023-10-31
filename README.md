@@ -12,14 +12,15 @@
   <a href="https://www.linkedin.com/in/trimitha-karina-ningsih-07a883259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a How to reach me **trimithak14@gmail.com**>
 <br>
 <!--About Me-->
-## About me 
+  
+## About me
 
 - 🏫 I am a 3rd year student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
 - 👩🏻‍💻 **Currently working on** `Data Analyst`
 - 📑 Know About My Experience **https://drive.google.com/file/d/10nPXkVWReO6Rxyt_k_ZdyL6JjXIDRqqC/view?usp=sharing**
+- 📧 How to reach me **trimitha14@gmail.com**
 
 ## Github Stats
 <!--- stats & Trophy (start) -->
