@@ -16,7 +16,6 @@
 <br>
 <!--About Me-->
 ## About me 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - 🏫 I am a 3rd year student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
 - 👩🏻‍💻 **Currently working on** `Data Analyst` 
