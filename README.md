@@ -44,4 +44,4 @@
 <!--- stats (end) -->
 
 ## Author
-[@Triimitharkn](https://www.github.com/Trimithakrn)
+[@Trimitharkn](https://www.github.com/Trimithakrn)
