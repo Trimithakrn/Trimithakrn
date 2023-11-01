@@ -6,6 +6,7 @@
     <summary><h1 style="display: inline-block">Hello, I am an applied undergraduate student majoring in Data Science at Politeknik Elektronika Negeri Surabaya, interested in data analyst. </h1></summary>
   </ul>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Trimithakrn&label=Profile%20views&color=0e75b6&style=flat" alt="Trimithakrn" /> </p>
 
 ## Connect with me
 <div id="badges">
@@ -29,14 +30,14 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Trimithakrn&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Trimithakrn&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Trimithakrn&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Trimithakrn&theme=light&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Trimithakrn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Trimithakrn&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
